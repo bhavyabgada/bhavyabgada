@@ -70,17 +70,6 @@ class BhavyaGada:
 
 <div align="center">
 
-### 📊 Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=bhavyabgada&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyabgada&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🚀 Projects
 
 [![VertexAI](https://img.shields.io/badge/🤖_VertexAI_Projects-Python_|_GCP_|_ML-4285F4?style=for-the-badge&labelColor=0D1117)](https://github.com/bhavyabgada/VertexAIProjects)
