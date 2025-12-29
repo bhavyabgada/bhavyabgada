@@ -22,21 +22,24 @@
 
 <table><tr><td valign="top" width="50%">
 
-### 👨‍💻 About
+### ⚡ Currently
 ```python
-class BhavyaGada:
-    role = "Data Engineer"
-    location = "Maryland, USA"
-    current = "UPS"
-    previous = ["Ardent Privacy", "UMBC", "Virtuals Design"]
-    
-    focus = [
-        "CDC pipelines at scale",
-        "Privacy engineering (GDPR/HIPAA)",
-        "Cloud-native data platforms",
-        "Distributed processing"
-    ]
+while alive:
+    eat()
+    sleep()
+    code()
+    repeat()
 ```
+
+🔭 **Building:** AI agents with LangChain & Vertex AI
+
+🧪 **Experimenting:** RAG pipelines, vector DBs, LLM fine-tuning
+
+🎮 **Playing with:** Kafka streams, real-time CDC, event-driven arch
+
+🌱 **Learning:** Rust, WebAssembly, edge computing
+
+💬 **Ask me about:** Data pipelines, cloud architecture, privacy engineering
 
 ### 🏆 Certifications
 ![AWS](https://img.shields.io/badge/AWS_SA-Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
