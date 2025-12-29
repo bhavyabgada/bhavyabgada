@@ -24,22 +24,21 @@
 
 ### ⚡ Currently
 ```python
-while alive:
-    eat()
-    sleep()
-    code()
-    repeat()
+class BhavyaGada:
+    
+    def __init__(self):
+        self.building = "AI agents with LangChain & Vertex AI"
+        self.experimenting = ["RAG pipelines", "vector DBs", "LLM fine-tuning"]
+        self.playing_with = "real-time CDC & event-driven architectures"
+        self.learning = ["Rust", "WebAssembly", "edge computing"]
+        
+    def mass(self):
+        while True:
+            self.eat()
+            self.sleep()
+            self.code()
+            self.mass()  # recursive gains 💪
 ```
-
-🔭 **Building:** AI agents with LangChain & Vertex AI
-
-🧪 **Experimenting:** RAG pipelines, vector DBs, LLM fine-tuning
-
-🎮 **Playing with:** Kafka streams, real-time CDC, event-driven arch
-
-🌱 **Learning:** Rust, WebAssembly, edge computing
-
-💬 **Ask me about:** Data pipelines, cloud architecture, privacy engineering
 
 ### 🏆 Certifications
 ![AWS](https://img.shields.io/badge/AWS_SA-Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
